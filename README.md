@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I’m Juan Felipe Laverde
+I studied technology in information systems at the Valley university 🏙, I am a passionate about frontend development and learning new technologies👨‍💻🤓❤.
 
-<!--
-**xxreyksxx/xxreyksxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My skills:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+
+- HTML → ✦✦✦✦✦✦✦✦✧✧ 85%
+- CSS    → ✦✦✦✦✦✦✦✧✧✧ 75%
+- JavaScript → ✦✦✦✦✦✦✧✧✧✧✧ 60%.
+
+---
+
+**Libraries & Frameworks :**
+
+- Bootstrap → ✦✦✦✦✦✦✦✧✧✧✧ 65%
+- React.js → ✦✦✦✦✧✧✧✧✧✧ 40%
+- Angula.js → ✦✦✦✧✧✧✧✧✧✧ 30%
+
+---
+
+**Tools & Platforms:**
+
+- Git →✦✦✦✧✧✧✧✧✧✧ 30%
+
+# Contact:
+
+- [👨🏽‍💼 LinkedIn →](https://www.linkedin.com/in/juan-felipe-laverde-bautista-837993217/)
+- [📧 Correo → pipecod32145@gmail.com](mailto:pipecod32145@gmail.com)
