@@ -17,7 +17,7 @@ I studied technology in information systems at the Valley university 🏙, I am 
 
 - Bootstrap → ✦✦✦✦✦✦✦✧✧✧✧ 65%
 - React.js → ✦✦✦✦✧✧✧✧✧✧ 40%
-- Angula.js → ✦✦✦✧✧✧✧✧✧✧ 30%
+- Angular → ✦✦✦✧✧✧✧✧✧✧ 30%
 
 ---
 
