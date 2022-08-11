@@ -16,14 +16,15 @@ I studied technology in information systems at the Valley university 🏙, I am 
 **Libraries & Frameworks :**
 
 - Bootstrap → ✦✦✦✦✦✦✦✧✧✧✧ 65%
-- React.js → ✦✦✦✦✧✧✧✧✧✧ 40%
-- Angular → ✦✦✦✧✧✧✧✧✧✧ 30%
+- Angular → ✦✦✦✦✧✧✧✧✧✧ 40%
+- React.js → ✦✦✧✧✧✧✧✧✧✧ 20%
 
 ---
 
 **Tools & Platforms:**
 
-- Git →✦✦✦✧✧✧✧✧✧✧ 30%
+- MongoDB →✦✦✦✦✧✧✧✧✧✧ 40%
+- GitHub →✦✦✦✧✧✧✧✧✧✧ 30%
 
 # Contact:
 
