@@ -1,5 +1,5 @@
 # Hello, I’m Juan Felipe Laverde
-I studied technology in information systems at the Valley university 🏙, I am a passionate about frontend development and learning new technologies👨‍💻🤓❤.
+information systems technologist to the Valley university 🏙, I am a passionate about frontend development and learning new technologies👨‍💻🤓❤.
 
 # My skills:
 
@@ -7,16 +7,16 @@ I studied technology in information systems at the Valley university 🏙, I am 
 
 **Languages:**
 
-- HTML → ✦✦✦✦✦✦✦✦✧✧ 85%
-- CSS    → ✦✦✦✦✦✦✦✧✧✧ 75%
-- JavaScript → ✦✦✦✦✦✦✧✧✧✧✧ 60%.
+- HTML → ✦✦✦✦✦✦✦✦✧✧ 95%
+- CSS    → ✦✦✦✦✦✦✦✧✧✧ 90%
+- JavaScript → ✦✦✦✦✦✦✧✧✧✧✧ 85%.
 
 ---
 
 **Libraries & Frameworks :**
 
-- Bootstrap → ✦✦✦✦✦✦✦✧✧✧✧ 65%
-- Angular → ✦✦✦✦✧✧✧✧✧✧ 40%
+- Bootstrap → ✦✦✦✦✦✦✦✧✧✧✧ 90%
+- Angular → ✦✦✦✦✧✧✧✧✧✧ 60%
 - React.js → ✦✦✧✧✧✧✧✧✧✧ 20%
 
 ---
